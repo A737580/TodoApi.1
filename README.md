@@ -8,6 +8,8 @@
 - Clean Architecture (по мотивам [шаблона Jason Taylor](https://github.com/jasontaylordev/CleanArchitecture))
 - Web API
 - PostgreSQL
+- EF Core
+- MediatR, FluentValidation, NSwag
 
 ## 🧱 Архитектура
 
@@ -85,7 +87,8 @@ src/
 
 ## ✅ Планы по развитию
 
-- [ ] Подключить базу данных
+- [+] Подключить базу данных
+- [+] Подключить Swagger
 - [ ] Настроить Dependency Injection
 - [ ] Добавить юнит-тесты
 - [ ] Реализовать CI/CD
